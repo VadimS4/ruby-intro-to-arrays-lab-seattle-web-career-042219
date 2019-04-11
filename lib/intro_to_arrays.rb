@@ -7,6 +7,6 @@ def array_with_two_elements
   @my_two_array = array_with_two_elements
 end
 
-def my_first_element
+def first_element(my_first_element)
   first_element.index(0)
 end
