@@ -11,11 +11,9 @@ def my_first_element
 end
 
 def my_third_element
-  third_element = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   third_element.index(2)
 end
 
 def my_last_element
-  last_element = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   last_element.index(3)
 end
