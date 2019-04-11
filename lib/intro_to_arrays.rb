@@ -4,7 +4,7 @@ end
 
 def array_with_two_elements
   array_with_two_elements = ["Mercedes", "Audi"]
-  @my_two_array = 
+  @my_two_array = array_with_two_elements
 end
 
 def my_first_element
