@@ -22,5 +22,6 @@ def last_element(my_last_element)
   my_last_element = @taylor_swift.last
 end
 
-def first_element_with_array_methods(array_methods)
+def first_element_with_array_methods(first_country)
+  @
 
