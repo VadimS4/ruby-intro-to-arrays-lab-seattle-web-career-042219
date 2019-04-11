@@ -32,7 +32,9 @@ def last_element_with_array_methods(last_country)
   last_country = @south_east_asia.last
 end
 
-def 
+def length_of_array(length)
+  @
+end
 
 
 
