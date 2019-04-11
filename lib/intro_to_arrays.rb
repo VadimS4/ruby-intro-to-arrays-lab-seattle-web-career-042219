@@ -7,7 +7,6 @@ def array_with_two_elements
 end
 
 def my_first_element
-  first_element = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   first_element.index(0)
 end
 
