@@ -33,7 +33,7 @@ def last_element_with_array_methods(last_country)
 end
 
 def length_of_array(length)
-  @
+  @programming_languages = []
 end
 
 
