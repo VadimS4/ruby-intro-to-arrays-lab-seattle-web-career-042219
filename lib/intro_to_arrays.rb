@@ -13,4 +13,9 @@ def first_element(my_first_element)
 end
 
 def third_element(my_third_element)
+  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  my_third_element = @taylor_swift.index(2)
+end
+
+def last_element(my_last_element)
   @taylor_swift = []
